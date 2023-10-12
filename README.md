@@ -1,6 +1,7 @@
 <h1>Bf Sha256<h1>
 
 <h2>Disclaimer</h2>
+
 <b>This code could be illegal in your country.<b> Do not download it, if thats the case<br>
 I take no responsibilitiy for abusing my code for a bad purpose.
 
