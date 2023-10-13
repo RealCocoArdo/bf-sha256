@@ -11,10 +11,10 @@ sp_car = input("\n  Test with special character (Y/N)?: ")
 
 if sp_car == 'Y' or sp_car == 'y':
     print('  Testing with special characters')
-    chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#%-=/\+_!?.&§~*:;<>"
+    chars = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#%-=/\+_!?.&§~*:;<>"
 else:
     print("  Testing without special characters")
-    chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    chars = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 # Define a maximum length for the input
 max_length = int(input("\n  Define a maximum length of characters tried (default 6): "))
