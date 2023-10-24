@@ -15,7 +15,10 @@ I take no responsibilitiy for abusing my code for a bad purpose.
 1. Download the code
 2. Open your terminal or cmd
 3. Navigate to the folder where you stored the programm with `cd folderName` and `cd ..`
-4. Start the programm with `py bf5.py`
+4. Start the programm with 
+```
+py bf5.py
+```
 
 <h2>Ressources</h2>
 
